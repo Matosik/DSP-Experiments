@@ -1,2 +1,3 @@
 При устаноке pyreaper возникла ошибка и пришлось установить следующее на пк:
-- нужно скачать [BuildTools](https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/) + [тутор](https://github.com/bycloudai/InstallVSBuildToolsWindows)  
+- нужно скачать [BuildTools](https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/) + [тутор](https://github.com/bycloudai/InstallVSBuildToolsWindows)
+- pip install --upgrade setuptools
