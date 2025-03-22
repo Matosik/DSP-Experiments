@@ -4,6 +4,7 @@
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image-3.png)
+![alt text](image-7.png)
 ![alt text](image-6.png)
 # 2. Чему равно значение ДВПФ для сигнала {1,2,2,1} при ω = 0 и при ω = pi? Вычислите эти значения вручную.
 ![alt text](image-4.png)
